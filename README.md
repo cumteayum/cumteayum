@@ -1,7 +1,7 @@
 # > About Me:
 Working my way up to a 315 bench.
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wqhnol841kbs5utruburelojo&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=f6f5f4&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wqhnol841kbs5utruburelojo&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cumteayum1) 
