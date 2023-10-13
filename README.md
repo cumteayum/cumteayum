@@ -1,5 +1,5 @@
 # > About Me:
-Working my way up to a 315 bench.
+Hello Visitor! I make websites and 3d renders(Product animations in particular). My primary stacks are FKIT and TITLER. Ocassionally i write rust and bash scripts to automate stuff. Might make this profile more professional in 2024. Take care till then ! 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wqhnol841kbs5utruburelojo&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 
@@ -16,8 +16,6 @@ Working my way up to a 315 bench.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=twopiebysix&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=twopiebysix&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
